@@ -1,0 +1,11 @@
+//Get token from local storage
+// const token = localStorage.getItem("accessToken");
+// let myHeaders = new Headers();
+
+// myHeaders.append("Application-Key", "YOUR-APP-KEY"); //replace YOUR-APP-KEY with the real key
+// myHeaders.append("Authorization", "Bearer " + token);
+// myHeaders.append("Content-Type", "application/json");
+
+// let requestOptions = {
+//   headers: myHeaders,
+// };
